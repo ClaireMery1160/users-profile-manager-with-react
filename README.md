@@ -9,7 +9,6 @@
 * You will have to login in order to access the application - username: AdaLovelace - password: LordByron
 
 ## Overview of main features
-* 
 * Display a list of users and their profile
 * Detail Card for each user and their profile
 * Update, add and delete users and their departments
