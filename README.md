@@ -5,7 +5,7 @@
 ***
 ## Note on project installation
 * Install Node.js and launch server with command npm start, then go to http://localhost:3000
-* Install and then launch json-server with command npm run start.api
+* Install and then launch json-server with command npm run start:api
 * You will have to login in order to access the application - username: AdaLovelace - password: LordByron
 
 ## Overview of main features
