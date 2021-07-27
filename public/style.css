@@ -1,0 +1,82 @@
+:root {
+    --main-purple: #d500f9;
+    --deep-purple: #4e047b;
+    --webkit-main-gradient:-webkit-linear-gradient(90deg, rgba(33,2,82,0.85) 0%, rgba(162,48,185,1) 35%, rgba(0,212,255,1) 100%);
+    --main-gradient:linear-gradient(90deg, rgba(33,2,82,0.85) 0%, rgba(162,48,185,1) 35%, rgba(0,212,255,1) 100%)!important;
+  }
+
+body{
+    background-color:var(--deep-purple) !important;
+}
+
+.gradient-text{
+    background-image:var(--webkit-main-gradient);
+    background-image: var(--main-gradient);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+nav{
+    background-image: -webkit-linear-gradient(90deg, rgba(33,2,82,0.85) 0%, rgba(162,48,185,1) 35%, rgba(0,212,255,1) 100%);
+    background-image: linear-gradient(90deg, rgba(53,2,706,0.85) 0%, rgba(162,48,185,1) 35%, rgba(0,212,255,1) 100%)!important;
+}
+.nav-wrapper{
+    background-image: linear-gradient(90deg, rgba(33,2,82,0.85) 0%, rgba(162,48,185,1) 35%, rgba(0,212,255,1) 100%)!important;
+    padding : 10px; 
+}
+
+.white-font {
+    color:#fafafa;
+}
+
+.tokyo-title{
+    font-family: 'Zen Tokyo Zoo', cursive;
+}
+
+.play{
+    font-family: 'Play', sans-serif;
+}
+
+p, span, td, label, input, button{
+    font-family: 'Baloo Chettan 2', cursive!important;
+}
+
+.card-content p, td {
+    font-size: 1.25rem;
+}
+
+.card.hoverable{
+    border: 4px solid #ddd;
+}
+
+.chip{
+    font-size: 1.05rem;
+}
+
+.btn-floating{
+    background-color:var(--main-purple) !important;
+}
+
+.collection a.collection-item{
+    color:var(--main-purple) !important;
+}
+
+input[type=text]:focus{
+    border-bottom: 1px solid var(--main-purple) !important;
+}
+
+[type="checkbox"].filled-in:checked+span:not(.lever):after {
+    border: 2px solid var(--main-purple) !important;
+    background-color: var(--main-purple) !important;
+}
+
+.btn, .btn-large, .btn-small {
+    background-color:var(--main-purple) !important;
+}
+
+.btn:hover, .btn-large:hover, .btn-small:hover, .btn-floating:hover {
+    background-color:var(--deep-purple) !important;
+}
+.loader{
+    margin-top:150px;
+}

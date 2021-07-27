@@ -1,0 +1,107 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Carol",
+      "lastname": "hamilton",
+      "picture": "https://randomuser.me/api/portraits/women/31.jpg",
+      "types": [
+        "Direction",
+        "IT"
+      ]
+    },
+    {
+      "id": 2,
+      "firstname": "signe",
+      "lastname": "petersen",
+      "picture": "https://randomuser.me/api/portraits/women/75.jpg",
+      "types": [
+        "Direction",
+        "Sales"
+      ]
+    },
+    {
+      "id": 3,
+      "firstname": "wilhelm",
+      "lastname": "könig",
+      "picture": "https://randomuser.me/api/portraits/men/79.jpg",
+      "types": [
+        "Production"
+      ]
+    },
+    {
+      "id": 4,
+      "firstname": "lotta",
+      "lastname": "kotila",
+      "picture": "https://randomuser.me/api/portraits/women/22.jpg",
+      "types": [
+        "Sales"
+      ]
+    },
+    {
+      "id": 5,
+      "firstname": "philip",
+      "lastname": "young",
+      "picture": "https://randomuser.me/api/portraits/men/25.jpg",
+      "types": [
+        "Production"
+      ]
+    },
+    {
+      "id": 6,
+      "firstname": "sheryl",
+      "lastname": "barrett",
+      "picture": "https://randomuser.me/api/portraits/women/49.jpg",
+      "types": [
+        "Direction",
+        "Production"
+      ]
+    },
+    {
+      "id": 7,
+      "firstname": "travis",
+      "lastname": "stone",
+      "picture": "https://randomuser.me/api/portraits/men/27.jpg",
+      "types": [
+        "Production"
+      ]
+    },
+    {
+      "id": 8,
+      "firstname": "magnus",
+      "lastname": "christensen",
+      "picture": "https://randomuser.me/api/portraits/men/50.jpg",
+      "types": [
+        "Administration"
+      ]
+    },
+    {
+      "id": 9,
+      "firstname": "maëlle",
+      "lastname": "lopez",
+      "picture": "https://randomuser.me/api/portraits/women/15.jpg",
+      "types": [
+        "IT"
+      ]
+    },
+    {
+      "id": 1627385224789,
+      "firstname": "Jenny",
+      "lastname": "Müller",
+      "picture": "https://randomuser.me/api/portraits/women/77.jpg",
+      "types": [
+        "Production",
+        "IT"
+      ]
+    },
+    {
+      "id": 1627390086927,
+      "firstname": "Nesrine",
+      "lastname": "Blondeau",
+      "picture": "https://randomuser.me/api/portraits/women/47.jpg",
+      "types": [
+        "Production"
+      ]
+    }
+  ]
+}

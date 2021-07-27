@@ -1,0 +1,20 @@
+.card{
+    border-radius:8px!important;
+}
+
+.card .card-image img{
+    left:5px!important;
+}
+
+.horizontal {
+    border: solid 4px #ddd;
+    height:180px;
+}
+.card-content > p:first-child{
+    margin-bottom:10px!important;
+}
+
+.card-content small{
+    position:absolute;
+    bottom: 5px;
+}
