@@ -27,7 +27,7 @@ const UserSearch: FunctionComponent = () => {
       <div className="card"> 
       <div className="card-content"> 
         <div className="input-field"> 
-        <input type="text" placeholder="Rechercher un utilisateur" value={term} onChange={e => handleInputChange(e)} /> 
+        <input type="text" placeholder="Rechercher un utilisateur par son nom sans majuscule" value={term} onChange={e => handleInputChange(e)} /> 
         </div> 
         <div className='collection'>
         {users.map((user) => (

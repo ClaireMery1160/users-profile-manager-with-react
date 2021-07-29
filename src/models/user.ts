@@ -12,7 +12,7 @@ export default class User {
      id: number,
      firstname: string,
      lastname: string,
-     picture: string = 'https://randomuser.me/api/portraits/women/xxx.jpg',
+     picture: string = 'https://randomuser.me/api/portraits/women/xx.jpg',
      types: Array<string> = [],
      created: Date = new Date()
     ) 

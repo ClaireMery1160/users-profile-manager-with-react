@@ -16,7 +16,7 @@ const App: FunctionComponent = () =>
                 {/* barre de navigation*/}
                 <nav>
                     <div className="nav-wrapper">
-                        <Link to="/" className="brand-logo left tokyo-title">Users Profile Manager</Link>
+                        <Link to="/" className="brand-logo left tokyo-title">Profiles Manager</Link>
                     </div>
                 </nav>
                 <Switch>
